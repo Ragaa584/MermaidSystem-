@@ -55,6 +55,7 @@ public class MermaidCommand implements CommandExecutor {
 
         meta.setColor(type.getColor());
         meta.setDisplayName(type.getDisplayName());
+        meta.setCustomModelData(type.getCustomModelData());
 
         List<String> lore = new ArrayList<>();
         lore.add("§7Hold this in your inventory and");
