@@ -1,0 +1,268 @@
+# ============================================================
+#  Custom Armor Plugin - Configuration
+# ------------------------------------------------------------
+#  7 sets × 4 pieces = 28 custom armor pieces
+#  All Netherite, all unbreakable.
+#  Give command: /customarmor give <id>
+# ============================================================
+
+armor:
+
+  # --- Bloom Set ---
+  bloom_crown:
+    display-name: "&dBloom Crown"
+    material: NETHERITE_HELMET
+    custom-model-data: 1001
+    unbreakable: true
+    lore:
+      - "&7Bloom Set - Helmet"
+    enchantments: {}
+
+  bloom_chestplate:
+    display-name: "&dBloom Chestplate"
+    material: NETHERITE_CHESTPLATE
+    custom-model-data: 1002
+    unbreakable: true
+    lore:
+      - "&7Bloom Set - Chestplate"
+    enchantments: {}
+
+  bloom_leggings:
+    display-name: "&dBloom Leggings"
+    material: NETHERITE_LEGGINGS
+    custom-model-data: 1003
+    unbreakable: true
+    lore:
+      - "&7Bloom Set - Leggings"
+    enchantments: {}
+
+  bloom_boots:
+    display-name: "&dBloom Boots"
+    material: NETHERITE_BOOTS
+    custom-model-data: 1004
+    unbreakable: true
+    lore:
+      - "&7Bloom Set - Boots"
+    enchantments: {}
+
+  # --- Bolt Set ---
+  bolt_helmet:
+    display-name: "&bBolt Helmet"
+    material: NETHERITE_HELMET
+    custom-model-data: 1005
+    unbreakable: true
+    lore:
+      - "&7Bolt Set - Helmet"
+    enchantments: {}
+
+  bolt_chestplate:
+    display-name: "&bBolt Chestplate"
+    material: NETHERITE_CHESTPLATE
+    custom-model-data: 1006
+    unbreakable: true
+    lore:
+      - "&7Bolt Set - Chestplate"
+    enchantments: {}
+
+  bolt_leggings:
+    display-name: "&bBolt Leggings"
+    material: NETHERITE_LEGGINGS
+    custom-model-data: 1007
+    unbreakable: true
+    lore:
+      - "&7Bolt Set - Leggings"
+    enchantments: {}
+
+  bolt_boots:
+    display-name: "&bBolt Boots"
+    material: NETHERITE_BOOTS
+    custom-model-data: 1008
+    unbreakable: true
+    lore:
+      - "&7Bolt Set - Boots"
+    enchantments: {}
+
+  # --- Drak Set ---
+  drak_helmet:
+    display-name: "&4Drak Helmet"
+    material: NETHERITE_HELMET
+    custom-model-data: 1009
+    unbreakable: true
+    lore:
+      - "&7Drak Set - Helmet"
+    enchantments: {}
+
+  drak_chestplate:
+    display-name: "&4Drak Chestplate"
+    material: NETHERITE_CHESTPLATE
+    custom-model-data: 1010
+    unbreakable: true
+    lore:
+      - "&7Drak Set - Chestplate"
+    enchantments: {}
+
+  drak_leggings:
+    display-name: "&4Drak Leggings"
+    material: NETHERITE_LEGGINGS
+    custom-model-data: 1011
+    unbreakable: true
+    lore:
+      - "&7Drak Set - Leggings"
+    enchantments: {}
+
+  drak_boots:
+    display-name: "&4Drak Boots"
+    material: NETHERITE_BOOTS
+    custom-model-data: 1012
+    unbreakable: true
+    lore:
+      - "&7Drak Set - Boots"
+    enchantments: {}
+
+  # --- Golam Set ---
+  golam_helmet:
+    display-name: "&eGolam Helmet"
+    material: NETHERITE_HELMET
+    custom-model-data: 1013
+    unbreakable: true
+    lore:
+      - "&7Golam Set - Helmet"
+    enchantments: {}
+
+  golam_chestplate:
+    display-name: "&eGolam Chestplate"
+    material: NETHERITE_CHESTPLATE
+    custom-model-data: 1014
+    unbreakable: true
+    lore:
+      - "&7Golam Set - Chestplate"
+    enchantments: {}
+
+  golam_leggings:
+    display-name: "&eGolam Leggings"
+    material: NETHERITE_LEGGINGS
+    custom-model-data: 1015
+    unbreakable: true
+    lore:
+      - "&7Golam Set - Leggings"
+    enchantments: {}
+
+  golam_boots:
+    display-name: "&eGolam Boots"
+    material: NETHERITE_BOOTS
+    custom-model-data: 1016
+    unbreakable: true
+    lore:
+      - "&7Golam Set - Boots"
+    enchantments: {}
+
+  # --- Hex Set ---
+  hex_helmet:
+    display-name: "&5Hex Helmet"
+    material: NETHERITE_HELMET
+    custom-model-data: 1017
+    unbreakable: true
+    lore:
+      - "&7Hex Set - Helmet"
+    enchantments: {}
+
+  hex_chestplate:
+    display-name: "&5Hex Chestplate"
+    material: NETHERITE_CHESTPLATE
+    custom-model-data: 1018
+    unbreakable: true
+    lore:
+      - "&7Hex Set - Chestplate"
+    enchantments: {}
+
+  hex_leggings:
+    display-name: "&5Hex Leggings"
+    material: NETHERITE_LEGGINGS
+    custom-model-data: 1019
+    unbreakable: true
+    lore:
+      - "&7Hex Set - Leggings"
+    enchantments: {}
+
+  hex_boots:
+    display-name: "&5Hex Boots"
+    material: NETHERITE_BOOTS
+    custom-model-data: 1020
+    unbreakable: true
+    lore:
+      - "&7Hex Set - Boots"
+    enchantments: {}
+
+  # --- Mist Set ---
+  mist_helmet:
+    display-name: "&fMist Helmet"
+    material: NETHERITE_HELMET
+    custom-model-data: 1021
+    unbreakable: true
+    lore:
+      - "&7Mist Set - Helmet"
+    enchantments: {}
+
+  mist_chestplate:
+    display-name: "&fMist Chestplate"
+    material: NETHERITE_CHESTPLATE
+    custom-model-data: 1022
+    unbreakable: true
+    lore:
+      - "&7Mist Set - Chestplate"
+    enchantments: {}
+
+  mist_leggings:
+    display-name: "&fMist Leggings"
+    material: NETHERITE_LEGGINGS
+    custom-model-data: 1023
+    unbreakable: true
+    lore:
+      - "&7Mist Set - Leggings"
+    enchantments: {}
+
+  mist_boots:
+    display-name: "&fMist Boots"
+    material: NETHERITE_BOOTS
+    custom-model-data: 1024
+    unbreakable: true
+    lore:
+      - "&7Mist Set - Boots"
+    enchantments: {}
+
+  # --- Wave Set ---
+  wave_helmet:
+    display-name: "&3Wave Helmet"
+    material: NETHERITE_HELMET
+    custom-model-data: 1025
+    unbreakable: true
+    lore:
+      - "&7Wave Set - Helmet"
+    enchantments: {}
+
+  wave_chestplate:
+    display-name: "&3Wave Chestplate"
+    material: NETHERITE_CHESTPLATE
+    custom-model-data: 1026
+    unbreakable: true
+    lore:
+      - "&7Wave Set - Chestplate"
+    enchantments: {}
+
+  wave_leggings:
+    display-name: "&3Wave Leggings"
+    material: NETHERITE_LEGGINGS
+    custom-model-data: 1027
+    unbreakable: true
+    lore:
+      - "&7Wave Set - Leggings"
+    enchantments: {}
+
+  wave_boots:
+    display-name: "&3Wave Boots"
+    material: NETHERITE_BOOTS
+    custom-model-data: 1028
+    unbreakable: true
+    lore:
+      - "&7Wave Set - Boots"
+    enchantments: {}

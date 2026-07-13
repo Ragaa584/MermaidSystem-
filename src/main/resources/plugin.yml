@@ -1,0 +1,17 @@
+name: CustomArmorPlugin
+version: '1.0.0'
+main: com.example.customarmor.CustomArmorPlugin
+api-version: '1.21'
+commands:
+  customarmor:
+    description: Manage custom armor
+    usage: /customarmor
+    aliases: [carmor]
+    permission: customarmor.use
+permissions:
+  customarmor.use:
+    default: true
+  customarmor.give:
+    default: op
+  customarmor.reload:
+    default: op
